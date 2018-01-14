@@ -20,3 +20,4 @@ Set ../Documents/unik/config.json with this content:
 Use your folder location.
 
 More info in nextsigner youtube channel https://youtube.com/c/nextsigner
+# unik-qml-blogger
